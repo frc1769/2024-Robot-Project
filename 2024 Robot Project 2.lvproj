@@ -112,9 +112,11 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="angle_mag.vi" Type="VI" URL="../angle_mag.vi"/>
 		<Item Name="Calculate_steering_motor.vi" Type="VI" URL="../Calculate_steering_motor.vi"/>
+		<Item Name="Enable Disable Field Translation.vi" Type="VI" URL="../Enable Disable Field Translation.vi"/>
 		<Item Name="field oriented translation.vi" Type="VI" URL="../field oriented translation.vi"/>
 		<Item Name="mapping.vi" Type="VI" URL="../mapping.vi"/>
 		<Item Name="pid yaw.vi" Type="VI" URL="../pid yaw.vi"/>
+		<Item Name="Reset Yaw.vi" Type="VI" URL="../Reset Yaw.vi"/>
 		<Item Name="reversing_feature.vi" Type="VI" URL="../reversing_feature.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="standard_angle.vi" Type="VI" URL="../standard_angle.vi"/>
