@@ -115,6 +115,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Arm Limited.vi" Type="VI" URL="../Arm Limited.vi"/>
 		<Item Name="Arm Setpoint.vi" Type="VI" URL="../Arm Setpoint.vi"/>
 		<Item Name="Calculate_steering_motor.vi" Type="VI" URL="../Calculate_steering_motor.vi"/>
+		<Item Name="Drive Main.vi" Type="VI" URL="../Drive Main.vi"/>
 		<Item Name="Enable Disable Field Translation.vi" Type="VI" URL="../Enable Disable Field Translation.vi"/>
 		<Item Name="field oriented translation.vi" Type="VI" URL="../field oriented translation.vi"/>
 		<Item Name="Hanging Control.vi" Type="VI" URL="../Hanging Control.vi"/>
@@ -783,7 +784,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">32</Property>
+				<Property Name="Bld_version.build" Type="Int">33</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
