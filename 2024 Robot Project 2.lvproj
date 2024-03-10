@@ -114,17 +114,20 @@ AddOutputFilter chunkFilter
 		<Item Name="Arm Control.vi" Type="VI" URL="../Arm Control.vi"/>
 		<Item Name="Arm Limited.vi" Type="VI" URL="../Arm Limited.vi"/>
 		<Item Name="Arm Setpoint.vi" Type="VI" URL="../Arm Setpoint.vi"/>
+		<Item Name="Auto states.ctl" Type="VI" URL="../Auto states.ctl"/>
 		<Item Name="Calculate_steering_motor.vi" Type="VI" URL="../Calculate_steering_motor.vi"/>
 		<Item Name="Drive Main.vi" Type="VI" URL="../Drive Main.vi"/>
 		<Item Name="Enable Disable Field Translation.vi" Type="VI" URL="../Enable Disable Field Translation.vi"/>
 		<Item Name="field oriented translation.vi" Type="VI" URL="../field oriented translation.vi"/>
 		<Item Name="Hanging Control.vi" Type="VI" URL="../Hanging Control.vi"/>
+		<Item Name="Intake Control.vi" Type="VI" URL="../Intake Control.vi"/>
 		<Item Name="mapping.vi" Type="VI" URL="../mapping.vi"/>
 		<Item Name="pid yaw.vi" Type="VI" URL="../pid yaw.vi"/>
 		<Item Name="Reset Yaw.vi" Type="VI" URL="../Reset Yaw.vi"/>
 		<Item Name="reversing_feature.vi" Type="VI" URL="../reversing_feature.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Rotate xy.vi" Type="VI" URL="../Rotate xy.vi"/>
+		<Item Name="Shooter Control.vi" Type="VI" URL="../Shooter Control.vi"/>
 		<Item Name="standard_angle.vi" Type="VI" URL="../standard_angle.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -784,7 +787,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">33</Property>
+				<Property Name="Bld_version.build" Type="Int">43</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
